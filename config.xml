@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+<widget
+    android-verisonCode = '1'
+    id='com.chrizz.ToDoList'
+    version='1.0.0'
+    xmlns = 'https://www.w3.org/ns/widgets'>
+
+    <name>To-Do List</name>
+    <description>A simple to do list that can handle big tasks</description>
+    <author>chrizz</author>
+
+    <preference name = 'orientation' value='portrait' />
+
+    <icon src="www/app icon.png" platform="android" width="57" height="57" density="mdpi"/>
+
+</widget>
